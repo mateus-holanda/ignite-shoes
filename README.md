@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-igniteshoesapp
+ignite-shoes
 
 ## 📝 Licença
 
